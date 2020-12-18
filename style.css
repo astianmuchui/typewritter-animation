@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background: url(images/img\ \(10\).jpg) no-repeat center center / cover;
+    color: white;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding: 0 3rem;
+}
+h1,h2{
+    font-weight: 200;
+    margin: 0.4rem;
+}
+h1{
+    font-size: 3.5rem;
+}
+h2{
+    font-size: 2rem;
+    color: #aaa;
+}
+span{
+    font-size: 3.5rem;
+}
