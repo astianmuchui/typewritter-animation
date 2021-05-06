@@ -3,11 +3,6 @@ simple typewritter with javascript
 How to Install
 
 1: Download the files and link the type_min.js file
-      Or
-2: Add this at the top of your html code
-  
-"<script src="https://astian4designs.000webhostapp.com/js%20Includes/type_min.js" type="text/javascript"></script>"
-
 Note::
 
 !Initialization
